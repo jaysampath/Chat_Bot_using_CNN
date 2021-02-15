@@ -4,17 +4,13 @@ This project exploits a deep learning algorithm called Convolution Neural Networ
  Feature Learning. For new tasks/problems CNNs are particularly good at feature extraction. Compared to other Neural Networks, CNNs exploit
  Pre-training technique which saves us time and memory.
 
- The methods used for manipulating the parameters are as follows:
- Tokenization
- Lemmatization
- Removing punctuations
- Pickle dumping
+ The methods used for manipulating the parameters are  Tokenization, Lemmatization, Removing punctuations,  Pickle dumping
 
 In business, Chatbots are used to give quick replies, thereby customer is satisfied. Why not extend this feature to all the categories?
 Chatbots can be used in education sector for student and staff help. This project is a manifestation of such a bot. With chatbots,
 we can implement a cost saving strategy, since chatbots never get bored, they do not need to work in shifts like humans.
 
-APPLICATION AREAS OF THE PROJECT
+APPLICATION AREAS OF THE PROJECT are 
 Chatbots can be used in customer support, 24x7.
 Chatbots can be used to personalize news for user.
 Chatbots can be used in ordering food and book flights.
